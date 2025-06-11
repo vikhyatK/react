@@ -6,7 +6,7 @@ export default function Navbar() {
             <header>
                 <nav>
                     <img src={logo} className='App-logo' alt='React Logo'></img>
-                    <span>ReactFact</span>
+                    <span>ReactFacts</span>
                 </nav>
             </header>
         </>
